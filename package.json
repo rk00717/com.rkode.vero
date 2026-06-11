@@ -1,0 +1,19 @@
+{
+  "name": "com.rkode.vero",
+  "displayName": "VERO",
+  "version": "0.1.0-alpha",
+  "unity": "2021.3",
+  "description": "VERO makes versioning and building the same action. (Stop forgetting to version your builds)",
+  "author": {
+    "name": "RKode Studio",
+    "url": "https://rkodestudio.com"
+  },
+  "type": "tool",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.rkode.utils": "0.4.0"
+  },
+  "documentationUrl": "https://github.com/rk00717/com.rkode.vero#readme",
+  "changelogUrl": "https://github.com/rk00717/com.rkode.vero/blob/main/ChangeLog.md",
+  "licensesUrl": "https://github.com/rk00717/com.rkode.vero/blob/main/LICENSE"
+}

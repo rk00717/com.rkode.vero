@@ -1,0 +1,7 @@
+{
+    "name": "RKode.VERO",
+    "references": [
+        "RKode.Utils.Editor",
+        "RKode.Utils.Runtime"
+    ]
+}
