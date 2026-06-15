@@ -1,3 +1,4 @@
+#if UNITY_EDITOR 
 using System;
 using RKode.Utils.Editor;
 using UnityEditor;
@@ -146,3 +147,4 @@ public class GUILibrary {
     }
 }
 }
+#endif

@@ -1,3 +1,4 @@
+#if UNITY_EDITOR 
 using UnityEngine;
 
 namespace RKode.VERO.Editor {
@@ -49,3 +50,4 @@ public class Palette {
     }
 }
 }
+#endif

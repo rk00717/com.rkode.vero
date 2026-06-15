@@ -1,3 +1,4 @@
+#if UNITY_EDITOR 
 namespace RKode.VERO.Editor {
 public abstract class TabBase {
     public abstract string Name { get; }
@@ -10,3 +11,4 @@ public abstract class TabBase {
     public abstract void Draw();
 }
 }
+#endif

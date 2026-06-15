@@ -1,3 +1,4 @@
+#if UNITY_EDITOR 
 using UnityEngine;
 
 namespace RKode.VERO.Editor {
@@ -8,3 +9,4 @@ public class TabContext {
     public Rect windowPosition;
 }
 }
+#endif
