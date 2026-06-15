@@ -1,7 +1,7 @@
 {
   "name": "com.rkode.vero",
   "displayName": "VERO",
-  "version": "0.1.0-alpha",
+  "version": "0.1.0-alpha.1",
   "unity": "2021.3",
   "description": "VERO makes versioning and building the same action. (Stop forgetting to version your builds)",
   "author": {

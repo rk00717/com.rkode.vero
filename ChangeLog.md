@@ -6,6 +6,13 @@ Versioning follows [RKode Software Versioning Policy](https://github.com/rk00717
 
 ---
 
+## [0.1.0-alpha.1] — 2026-06-15
+
+### Fixed 
+- Resolved standalone build compilation errors by wrapping editor-only scripts in `UNITY_EDITOR` directives.
+
+---
+
 ## [0.1.0-alpha] — 2026-06-04
 
 ### Added

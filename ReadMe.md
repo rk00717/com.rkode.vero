@@ -2,7 +2,7 @@
 
 # VERO
 ### Versioning Extension & Release Optimizer
-#### `com.rkode.vero` · v0.1.0-alpha · Unity 2021.3+
+#### `com.rkode.vero` · v0.1.0-alpha.1 · Unity 2021.3+
 
 **A Unity Editor extension that enforces release discipline.**  
 Stop forgetting to version your builds.
@@ -187,7 +187,7 @@ These are tracked and targeted for v0.2:
 | Package | Description | Status |
 |---|---|---|
 | [`com.rkode.utils`](https://github.com/rk00717/com.rkode.utils) | Foundation utilities | v0.4.0 |
-| **`com.rkode.vero`** | This package — build versioning | v0.1.0-alpha |
+| **`com.rkode.vero`** | This package — build versioning | v0.1.0-alpha.1 |
 | [`com.rkode.glad`](https://github.com/rk00717/com.rkode.glad) | Grid-based level design editor | v0.1.0-alpha |
 | [`com.rkode.drip`](https://github.com/rk00717/com.rkode.drip) | Scene object placement tool | v0.1.0-alpha |
 
